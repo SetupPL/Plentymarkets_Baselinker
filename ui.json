@@ -1,0 +1,12 @@
+{
+  "defaultEntryPoint": "index.html",
+  "namespace": "Amavat",
+  "menuEntries": [
+    {
+      "label": "Amavat Vat Export",
+      "menu": "data-exchange/export/amavatvatexport",
+      "urlKey": "amavatvatexport",
+      "entryPoint": "index.html"
+    }
+  ]
+}
